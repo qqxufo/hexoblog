@@ -3,7 +3,6 @@ menu:
   文章: archives
 
 widgets:
-- search
 - category
 - tag
 
